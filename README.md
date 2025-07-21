@@ -1,15 +1,12 @@
-# 用户登录
+# api前端
 
-[TOC]
 
-## 模板特点
+### 框架
 
-### 主流框架 & 特性
-
-+ Ant Design Pro 6.0.0
-+ React 18.2.0
-+ node 至少 16 版本及以上
-+ antd 5.2.2
++ Ant Design Pro 
++ React 
++ node 
++ antd 
 + Type Script
 + 动态路由
 + Eslint
@@ -19,17 +16,15 @@
 
 #### Umi
 
-+ Node.js 前端开发基础环境
-+ webpack 前端必学必会的打包工具
-+ react-router 路由库
-+ proxy 反向代理工具
-+ dva 轻量级的应用框架
-+ fabric 严格但是不严苛的 lint 规则集（eslint、stylelint、prettier)
-+ Type Script 带类型的 JavaScript
++ Node.js 
++ webpack 
++ react-router 
++ proxy
++ Type Script 
 
 #### Ant Design 前端组件库
 
-#### Ant Design Chart 简单好用的React 图表库
+#### Ant Design Chart  React 图表库
 
 #### ProComponents 模板组件
 
@@ -41,7 +36,6 @@
 #### umi 插件
 
 + 内置布局
-+ 国际化
 + 权限
 + 数据流
 
@@ -61,14 +55,6 @@
 + 管理员修改用户、新建用户、查询用户、删除用户
 + 动态路由展示（权限管理）
 
-## 快速上手
 
-1）先启动后端的万用模板
-
-2）使用命令生成后端请求代码
-
-3）将标题和 logo 等切换为个人
-
-4）测试业务功能
 
 
